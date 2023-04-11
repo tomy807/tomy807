@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomy807&show_icons=true&theme=radical)
 #### Language</br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/c++"/><img height="32" width="32" src="https://cdn.simpleicons.org/c"/><img height="32" width="32" src="https://cdn.simpleicons.org/python"/><img height="32" width="32" src="https://cdn.simpleicons.org/Javascript"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/c++"/> <img height="32" width="32" src="https://cdn.simpleicons.org/c"/> <img height="32" width="32" src="https://cdn.simpleicons.org/python"/> <img height="32" width="32" src="https://cdn.simpleicons.org/Javascript"/>
 #### OS</br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu"/><img height="32" width="32" src="https://cdn.simpleicons.org/windows"/><img height="32" width="32" src="https://cdn.simpleicons.org/docker"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu"/> <img height="32" width="32" src="https://cdn.simpleicons.org/windows"/> <img height="32" width="32" src="https://cdn.simpleicons.org/docker"/>
 #### FrameWork</br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/pytorch"/><img height="32" width="32" src="https://cdn.simpleicons.org/numpy"/><img height="32" width="32" src="https://cdn.simpleicons.org/opencv"/><img height="32" width="32" src="https://cdn.simpleicons.org/opengl"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/pytorch"/> <img height="32" width="32" src="https://cdn.simpleicons.org/numpy"/> <img height="32" width="32" src="https://cdn.simpleicons.org/opencv"/> <img height="32" width="32" src="https://cdn.simpleicons.org/opengl"/>
