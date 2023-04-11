@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 #### Language</br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/c++"/><img height="32" width="32" src="https://cdn.simpleicons.org/c"/><img height="32" width="32" src="https://cdn.simpleicons.org/python"/><img height="32" width="32" src="https://cdn.simpleicons.org/Javascript"/>
 #### OS</br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu"/><img height="32" width="32" src="https://cdn.simpleicons.org/windows"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu"/><img height="32" width="32" src="https://cdn.simpleicons.org/windows"/><img height="32" width="32" src="https://cdn.simpleicons.org/docker"/>
 #### FrameWork</br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch"/><img height="32" width="32" src="https://cdn.simpleicons.org/numpy"/><img height="32" width="32" src="https://cdn.simpleicons.org/opencv"/><img height="32" width="32" src="https://cdn.simpleicons.org/opengl"/>
