@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomy807&show_icons=true&theme=radical)
-<!-- 
-<img height="32" width="32" src="https://cdn.simpleicons.org/c++"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/python"/> -->
-<table>
-  <tr>
-    <td><img alt="" src="https://cdn.simpleicons.org/c++" height="32" width="32"/></td>
-    <td><img alt="" src="https://cdn.simpleicons.org/python" height="32" width="32" /></td>
-  <tr>
-</table>
+#### Language</br>
+<img height="32" width="32" src="https://cdn.simpleicons.org/c++"/><img height="32" width="32" src="https://cdn.simpleicons.org/c"/><img height="32" width="32" src="https://cdn.simpleicons.org/python"/><img height="32" width="32" src="https://cdn.simpleicons.org/Javascript"/>
+#### OS</br>
+<img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu"/><img height="32" width="32" src="https://cdn.simpleicons.org/windows"/>
+#### FrameWork</br>
+<img height="32" width="32" src="https://cdn.simpleicons.org/pytorch"/><img height="32" width="32" src="https://cdn.simpleicons.org/numpy"/><img height="32" width="32" src="https://cdn.simpleicons.org/opencv"/><img height="32" width="32" src="https://cdn.simpleicons.org/opengl"/>
