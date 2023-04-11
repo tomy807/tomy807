@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomy807&show_icons=true&theme=radical&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomy807&hide_progress=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #### Language</br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/c++"/> <img height="32" width="32" src="https://cdn.simpleicons.org/c"/> <img height="32" width="32" src="https://cdn.simpleicons.org/python"/> <img height="32" width="32" src="https://cdn.simpleicons.org/Javascript"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/c++"/> <img height="32" width="32" src="https://cdn.simpleicons.org/c"/> <img height="32" width="32" src="https://cdn.simpleicons.org/python"/>
 #### OS</br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu"/> <img height="32" width="32" src="https://cdn.simpleicons.org/windows"/> <img height="32" width="32" src="https://cdn.simpleicons.org/docker"/>
 #### FrameWork</br>
