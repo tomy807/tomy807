@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img height="32" width="32" src="https://cdn.simpleicons.org/c++"/>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomy807&show_icons=true&theme=radical)
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/c++"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/python"/>
